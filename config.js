@@ -8,7 +8,7 @@ import axios from 'axios';
 import moment from 'moment-timezone'
 
 global.owner = [ //OWNERS
-["5493873232212", '𝙉𝙖𝙪𝙛𝙧𝙖𝙕𝙖𝙥𝙥-𝙈𝘿', true], 
+["919728714060", '𝙉𝙖𝙪𝙛𝙧𝙖𝙕𝙖𝙥𝙥-𝙈𝘿', true], 
 ["573108625104"],
 ["34626817680"],
 ["5493873232221"],
@@ -48,7 +48,7 @@ global.baileys = '@whiskeysockets/baileys'
 global.lenguaje = 'Español'
 global.menudi = ['⛶','❏','⫹⫺']
 global.dev = '✯ Naufrago ✯'
-global.devnum = '+54 9 3873 23-2212'
+global.devnum = '919728714060'
 
 global.imgAll = fs.readFileSync('./Menu1.jpg')
 global.naufraAll = 'https://whatsapp.com/channel/0029VaRibRvDuMRj6ozMSN1l'
@@ -153,7 +153,7 @@ global.wm2 = `${dia} ${fecha}\nNaufraZapp-MD`;
 global.gt = 'NaufraZapp-MD';
 global.mysticbot = 'NaufraBot';
 global.mysticbot = 'https://github.com/MultiBot-OFC/NaufraZapp-MD';
-global.nomorown = '51929838430';
+global.nomorown = '919728714060';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
